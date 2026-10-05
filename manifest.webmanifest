@@ -1,0 +1,15 @@
+{
+  "name": "Life Keeper - 生き物飼育管理",
+  "short_name": "Life Keeper",
+  "description": "アクアリウム・爬虫類・両生類の飼育記録を管理するWebアプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050912",
+  "theme_color": "#050912",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
